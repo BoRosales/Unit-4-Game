@@ -1,0 +1,128 @@
+body {
+
+    font-family : 'bangers';
+
+    text-align: center;
+
+    color: rgb(77, 72, 72);
+
+    background-size: 100%;
+
+    background-repeat: no-repeat;
+
+    background-image: url(http://dgltoys.com/wp-content/uploads/2017/07/DGLToys-BrandBackgrounds-PowerRangers.jpg);
+
+  }
+
+  .playerChoice{
+
+	width: 100%;
+	height: 200px;
+	color: white;
+}
+
+
+.attackSec{
+
+	width: 100%;
+	height: 200px;
+	color: white;
+}
+
+.defenderChoice{
+
+	width: 100%;
+	height: 200px;
+	color: white;
+}
+
+.defenderSec{
+
+	width: 100%;
+	height: 200px;
+	color: white;
+}
+
+#ritaRep{
+	background-color: white;
+	width: 20%;
+	height: 70%;
+	position: relative;
+	float: left;
+	text-align: center;
+	border: 1px solid black;
+	margin: 5px;
+	background: url("../images/ritarepulsa.jpg") no-repeat;
+    background-size: cover;
+
+}
+
+#ritaRep p{
+	position: absolute;
+	bottom: 0;
+	margin-left: 35%;
+}
+
+
+#alpha{
+	background-color: white;
+	width: 20%;
+	height: 70%;
+	position: relative;
+	float: left;
+	text-align: center;
+	border: 1px solid black;
+	margin: 5px;
+	background: url("../images/alpha.jpg") no-repeat;
+    background-size: cover;
+}
+
+#alpha p{
+	position: absolute;
+	bottom: 0;
+	margin-left: 35%;
+}
+
+#grnRan{
+	background-color: white;
+	width: 20%;
+	height: 70%;
+	position: relative;
+	float: left;
+	text-align: center;
+	border: 1px solid black;
+	margin: 5px;
+	background: url("../images/greenranger.jpg") no-repeat;
+    background-size: cover;
+}
+
+#grnRan p{
+	position: absolute;
+	bottom: 0;
+	margin-left: 35%;
+}
+
+#redRan{
+	background-color: white;
+	width: 20%;
+	height: 70%;
+	position: relative;
+	float: left;
+	text-align: center;
+	border: 1px solid black;
+	margin: 5px;
+	background: url("../images/redranger.jpg") no-repeat;
+    background-size: cover;
+}
+
+#redRan p{
+	position: absolute;
+	bottom: 0;
+	margin-left: 35%;
+}
+
+#attackBut{
+
+	display: inline-block;
+	
+}
